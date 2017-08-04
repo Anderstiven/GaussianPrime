@@ -1,5 +1,7 @@
 # GaussianPrime
 Este código calcula primos gaussianos
+
+
 package primosg;
 
 public class PrimosG {
